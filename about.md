@@ -3,13 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+# About Emma
 
-Some information about you!
+Emma is a Master's student in Public History at Northeastern University. She has made this website as part of her project for her digital humanities certificate.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Emma is originally from California and worked as an antiquarian bookseller before enrolling in graduate school.
