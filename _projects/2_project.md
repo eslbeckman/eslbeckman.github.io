@@ -5,7 +5,7 @@ description: Digital essay
 img: 
 importance: 2
 category: essay
-giscus_comments: true
+giscus_comments: false
 ---
 
 I contributed this [digital essay](https://walktothesea.com/locations/long-wharf) for the Long Wharf stop on the Walk to the Sea walking tour. 
