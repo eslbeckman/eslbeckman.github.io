@@ -14,3 +14,5 @@ The essay was the final project for HIST7250: Practicum in the Place-based Museu
 Local chocolate mills in the Revolutionary Era provided an opportunity to explore Boston's links to the Atlantic Slave Trade, through trade of goods cultivated in the Caribbean and enslavement in the city itself.
 
 In addition to the digital skills exemplified in [my other essay for this class](https://eslbeckman.github.io/portfolio/2_project/), this essay also includes two [panel-truck](https://github.com/bplmaps/panel-truck?tab=readme-ov-file) storylines that I created to explore Revolutionary-era maps.
+
+*Essay written in Fall 2024 and published for the exhibit in Spring 2025*
