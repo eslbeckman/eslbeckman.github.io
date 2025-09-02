@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Neighborhood Public Art
-description: Boston Research Center project
-img: 
-importance: 3
+title: Sans Serif Light + Soneto XVII
+description: Huskiana Press project
+img: sonnet.jpeg
+importance: 1
 category: project
 ---
 
-While working with the Boston Research Center as a research associate, I contributed heavily to the [Neighborhood Public Art project](https://www.wikidata.org/wiki/Wikidata:WikiProject_Neighborhood_Public_Art_in_Boston). I helped to manage the data between our internal database and Wikidata, alongside the data engineer. 
+My first task when I began working at [Huskiana Press](https://huskianapress.sites.northeastern.edu/) - an essential first task for new press assistants anywhere - was sorting a new font into an empty drawer. The director of the press, Dr. Jessica Linker, had recently purchased several boxes of Sans Serif Light, which included accents for multiple different languages. 
 
-When I first joined the project, our internal database was hosted on AirTable, and my work involved regular use of the base. Eventually, we transferred the database to NocoDB, an open source alternative to AirTable. I assisted with the practical transfer and created instructive documentation for future users within BRC.
+For my major press project, I put together a composition of [Soneto XVII by Pablo Neruda](https://www.poetryfoundation.org/poems/49236/one-hundred-love-sonnets-xvii) in Spanish using Sans Serif Light. I set the type, took proofs, designed the layout, and locked up the form. Then I set it into our 1890s Golding press and registered it for printing. We used the composition for a Valentine’s Day event where I was able to teach newcomers how to operate the press so they could take a copy for themselves.
 
-This project also required an understanding of the functionality of Wikidata and its uses as a free and accessible tool for data management. Figuring out the logic of Wikidata involved close collaboration with other BRC team members to problem solve and maintain our scholarly standards. 
-
-My experience working with Wikidata on NPA also helped me to support my colleagues working on the [Boston Black Women Lead project](https://www.wikidata.org/wiki/Wikidata:Boston_Black_Women_Lead) by making the Wikidata portion of the project navigable.
+I relished my hours of sorting type in the press, and I’m grateful for this job because managing inks and solvents gave me a new understanding of responsibility and time management. And it was always a fun place to work!

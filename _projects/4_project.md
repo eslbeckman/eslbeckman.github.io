@@ -2,7 +2,7 @@
 layout: page
 title: Faces & Places
 description: Walking tour of LGBTQ+ history in Boston
-img:
+img: faces_places.jpeg_
 importance: 2
 category: project
 ---
