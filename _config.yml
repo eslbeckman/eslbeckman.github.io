@@ -199,6 +199,7 @@ exclude:
   - _pages/profiles.md
   - _pages/repositories.md
   - _pages/dropdown.md
+  - resume.json
 keep_files:
   - CNAME
   - .nojekyll
