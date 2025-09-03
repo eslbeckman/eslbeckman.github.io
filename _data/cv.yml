@@ -1,0 +1,38 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: Master of Arts
+      institution: Northeastern University, Boston, MA
+      year: 2025
+      description:
+        - Concentration in Public History with graduate certificate in Digital Humanities
+    - title: Bachelor of Arts
+      institution: Northeastern University, Boston, MA
+      year: 2018
+      description:
+        - Linguistics & English
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Associate
+      institution: Boston Research Center
+      year: July 2024 - August 2025
+      description:
+        - Digital community history lab based out of Northeastern University Library and Boston Public Library
+    - title: Press Assistant
+      institution: Huskiana Press
+      year: October 2024 - May 2025
+    - title: Bookseller
+      institution: Bell's Books, Palo Alto, CA
+      year: 2018 - 2023
+
+- title: Internships
+  type: time_table
+  contents:
+    - title: Research Intern
+      institution: The West End Museum
+      year: Summer 2024
+    - title: Visitor Services Intern
+      institution: United States Holocaust Memorial Museum
+      year: Spring 2017
