@@ -10,7 +10,7 @@ giscus_comments: false
 
 I contributed this [digital essay](https://walktothesea.com/locations/long-wharf) for the Long Wharf stop on the Walk to the Sea walking tour. 
 
-![Signs for the Long Wharf stop of Walk to the Sea](https://eslbeckman.github.io/assets/img/walktothesea_full.jpg)
+<img src="assets/img/walktothesea_full.jpg" width="200">
 
 It was written as a student project for HIST7250: Practicum in the Place-based Museum, a graduate course I took at Northeastern University with Dr. Garrett Dash Nelson, president and curator of the [Leventhal Map & Education Center](https://www.leventhalmap.org).
 
