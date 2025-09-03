@@ -2,7 +2,7 @@
 layout: page
 title: Long Wharf & Immigration
 description: Digital essay
-img: walktothesea.jpg
+img: assets/img/walktothesea.jpg
 importance: 2
 category: essay
 giscus_comments: false

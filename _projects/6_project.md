@@ -2,7 +2,7 @@
 layout: page
 title: Sans Serif Light + Soneto XVII
 description: Huskiana Press project
-img: sonnet.jpg
+img: assets/img/sonnet.jpg
 importance: 1
 category: project
 ---
