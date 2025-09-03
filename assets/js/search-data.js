@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Complete CV and references available upon request.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -75,6 +75,11 @@ ninja.data = [{
           description: "Boston Research Center project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-sans-serif-light-soneto-xvii",
+          title: 'Sans Serif Light + Soneto XVII',
+          description: "Huskiana Press project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{
         id: 'social-email',
         title: 'email',
