@@ -2,7 +2,7 @@
 layout: page
 title: Hogarth Networks
 description: Network analysis of the Hogarth Press
-img: 
+img: assets/img/hogarth.jpg
 importance: 1
 category: project
 related_publications: false
