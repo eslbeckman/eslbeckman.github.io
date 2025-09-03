@@ -11,7 +11,7 @@ My first task when I began working at [Huskiana Press](https://huskianapress.sit
 
 For my major press project, I put together a composition of [Soneto XVII by Pablo Neruda](https://www.poetryfoundation.org/poems/49236/one-hundred-love-sonnets-xvii) in Spanish using Sans Serif Light. I set the type, took proofs, designed the layout, and locked up the form. Then I set it into our 1890s Golding press and registered it for printing. We used the composition for a Valentine’s Day event where I was able to teach newcomers how to operate the press so they could take a copy for themselves.
 
-<img src="assets/img/sonnet_full.jpg" width="200">
+![Print of Sonnet XVII in front of the 1890s press](https://eslbeckman.github.io/assets/img/sonnet_full.jpg)
 
 I relished my hours of sorting type in the press, and I’m grateful for this job because managing inks and solvents gave me a new understanding of responsibility and time management. And it was always a fun place to work!
 
