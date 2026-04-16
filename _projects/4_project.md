@@ -7,7 +7,7 @@ importance: 2
 category: project
 ---
 
-For my research internship at the [West End Museum](https://thewestendmuseum.org/), I developed a walking tour called Faces & Places: LEGBTQ+ History in the West End. I led the walking tour in August 2024 for an audience of about 40 attendees. I also gave a modified version of the tour at a Zoom event in partnership with [The History Project](https://historyproject.org/).
+For my research internship at the [West End Museum](https://thewestendmuseum.org/), I developed a walking tour called Faces & Places: LGBTQ+ History in the West End. I led the walking tour in August 2024 for an audience of about 40 attendees. I also gave a modified version of the tour at a Zoom event in partnership with [The History Project](https://historyproject.org/).
 
 This project had multiple digital component parts, which are linked below.
 
